@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": 3,
+      "name": "Travel",
+      "budget": 1500,
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Utilities",
+      "budget": 1000,
+      "description": ""
+    },
+    {
+      "name": "12",
+      "description": "22",
+      "id": 5
+    },
+    {
+      "description": "2",
+      "name": "1",
+      "budget": 3,
+      "id": 6
+    }
+  ],
+  "payment_types": [
+    {
+      "id": 1,
+      "name": "Credit Card1",
+      "description": "Credit Card Payment"
+    },
+    {
+      "id": 3,
+      "name": "Cash1",
+      "description": "Cash Payment"
+    }
+  ]
+}
